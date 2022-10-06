@@ -1,0 +1,59 @@
+h1{
+    color: rgb(255, 255, 255);
+    font-size:1.2cm;
+    box-align: center;
+    text-align: center;
+    padding:3;
+    text-shadow: 10px 15px 25px rgba(255, 255, 255, 0.3);
+}
+body {
+    background-size: cover;
+    font-family: "Courier";
+    background-image: url("bg2.jpg");
+    opacity:0.8;
+  }
+  div{
+    color: #fff;
+    font-size:0.9cm;
+    box-align: center;
+    text-align: center;
+    padding:2;
+    box-shadow: 5px 15px 25px rgba(255, 255, 255, 0.3);
+    border-radius:10px;
+    height:100px;
+    width: 50%;
+    box-align:center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2px;
+    margin-top:5px;
+    align-self:center ;
+  }
+
+  a{
+    color: #fff;
+  }
+  a:link {
+    color: rgb(255, 255, 255);
+  }
+  a:hover {
+    color: rgb(125, 125, 125);
+  }
+  a:active {
+    color: rgb(54, 127, 72);
+  }
+  a:link {
+    text-decoration: none;
+  }
+  
+  a:visited {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  a:active {
+    text-decoration: underline;
+  }
